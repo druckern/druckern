@@ -3,7 +3,7 @@
 </div>
 
 ##
-<div>
+<div align="center">
 <img style="display:block; margin: auto;" src="https://d3h7iu7ouvnjew.cloudfront.net/images/Carlos.webp" width="80" height="80" />
 </div>
 As a software architect, I design and develop IT architectures using technologies such as backend services, web applications and integrations.
