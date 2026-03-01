@@ -6,8 +6,8 @@
 <div>
 <img style="display:block; margin: auto;" src="https://d3h7iu7ouvnjew.cloudfront.net/images/Carlos.webp" width="80" height="80" />
 </div>
-As a software architect, I design and develop architectures using technologies such as backend services, web applications and integrations.
-I have extensive experience with APIs and integration, including REST, and am familiar with complex front-end systems, as well as Kubernetes and Docker containers.
+As a software architect, I design and develop IT architectures using technologies such as backend services, web applications and integrations.
+I have extensive experience with APIs and integrations, including SOAP and REST. I am also familiar with complex front-end systems, as well as Kubernetes and Docker containers.
 
 ## 
 
